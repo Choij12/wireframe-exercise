@@ -2,7 +2,6 @@ body {
     display: flex;
     flex-direction: column;
     background-color: white;
-    /* margin-left: 20%; */
 }
 main {
     margin-top: 6rem;
